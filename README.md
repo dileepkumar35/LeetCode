@@ -6,12 +6,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dileepkumarmr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/dileepkumarmr/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dileepkumarmr/LeetCode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

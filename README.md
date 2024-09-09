@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/dileepkumarmr/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dileepkumarmr/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/dileepkumarmr/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |

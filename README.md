@@ -40,6 +40,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dileepkumarmr/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/dileepkumarmr/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dileepkumarmr/LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dileepkumarmr/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

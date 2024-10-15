@@ -36,6 +36,7 @@
 | [0344-reverse-string](https://github.com/dileepkumarmr/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dileepkumarmr/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dileepkumarmr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3195-separate-black-and-white-balls](https://github.com/dileepkumarmr/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0234-palindrome-linked-list](https://github.com/dileepkumarmr/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dileepkumarmr/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/dileepkumarmr/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/dileepkumarmr/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
@@ -143,4 +145,5 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dileepkumarmr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3195-separate-black-and-white-balls](https://github.com/dileepkumarmr/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->

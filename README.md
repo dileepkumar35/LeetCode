@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/dileepkumarmr/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dileepkumarmr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarmr/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dileepkumarmr/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/dileepkumarmr/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/dileepkumarmr/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -91,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dileepkumarmr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting

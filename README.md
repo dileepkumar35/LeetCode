@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dileepkumarmr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/dileepkumarmr/LeetCode/tree/master/0228-summary-ranges) |
+| [0485-max-consecutive-ones](https://github.com/dileepkumarmr/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dileepkumarmr/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Hash Table
 |  |

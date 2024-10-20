@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dileepkumarmr/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dileepkumarmr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/dileepkumarmr/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/dileepkumarmr/LeetCode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/dileepkumarmr/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dileepkumarmr/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -163,4 +164,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dileepkumarmr/LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dileepkumarmr/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dileepkumarmr/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

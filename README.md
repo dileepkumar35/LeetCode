@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dileepkumarmr/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dileepkumarmr/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dileepkumarmr/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/dileepkumarmr/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/dileepkumarmr/LeetCode/tree/master/0078-subsets) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarmr/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dileepkumarmr/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dileepkumarmr/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dileepkumarmr/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dileepkumarmr/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dileepkumarmr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |

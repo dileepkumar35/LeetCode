@@ -41,6 +41,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dileepkumarmr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarmr/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/dileepkumarmr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dileepkumarmr/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dileepkumarmr/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/dileepkumarmr/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/dileepkumarmr/LeetCode/tree/master/0344-reverse-string) |
@@ -74,6 +75,7 @@
 | [0015-3sum](https://github.com/dileepkumarmr/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dileepkumarmr/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dileepkumarmr/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dileepkumarmr/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dileepkumarmr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dileepkumarmr/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/dileepkumarmr/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -184,4 +186,8 @@
 | ------- |
 | [0078-subsets](https://github.com/dileepkumarmr/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dileepkumarmr/LeetCode/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dileepkumarmr/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

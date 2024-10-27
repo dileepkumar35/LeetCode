@@ -136,6 +136,7 @@
 | [0577-employee-bonus](https://github.com/dileepkumarmr/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/dileepkumarmr/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/dileepkumarmr/LeetCode/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/dileepkumarmr/LeetCode/tree/master/0619-biggest-single-number) |
 | [1153-product-sales-analysis-i](https://github.com/dileepkumarmr/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/dileepkumarmr/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/dileepkumarmr/LeetCode/tree/master/1161-project-employees-i) |
